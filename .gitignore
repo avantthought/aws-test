@@ -25,6 +25,7 @@ temp/
 tmp/
 venv/
 VENV/
+.venv/
 .idea/
 .ipynb_checkpoints/
 .mypy_cache/
